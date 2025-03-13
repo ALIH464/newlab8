@@ -24,5 +24,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Verify files exist
+        run: ls -R
+
       - name: Run a basic Node.js script
         run: node testScript.js
