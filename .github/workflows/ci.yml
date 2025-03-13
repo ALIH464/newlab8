@@ -28,4 +28,4 @@ jobs:
         run: ls -R
 
       - name: Run a basic Node.js script
-        run: node testScript.js
+        run: node src/testScript.js

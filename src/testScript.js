@@ -1,4 +1,4 @@
-const { getEvents, addEvent, getUpcomingEvents, authenticateUser, checkReminders } = require('./src/events.js');
+const { getEvents, addEvent, getUpcomingEvents, authenticateUser, checkReminders } = require('./events');
 
 console.log("Current Events:", getEvents());
 
