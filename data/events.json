@@ -1,0 +1,21 @@
+
+[
+    {
+      "id": 1,
+      "name": "Project Discussion",
+      "description": "Brainstorming session for the new project",
+      "date": "2025-04-10",
+      "time": "03:00 PM",
+      "category": "Work",
+      "reminder": "2025-04-10T02:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Doctor Appointment",
+      "description": "Annual health check-up",
+      "date": "2025-04-15",
+      "time": "10:00 AM",
+      "category": "Appointments",
+      "reminder": "2025-04-15T09:30:00Z"
+    }
+  ]

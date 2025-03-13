@@ -1,0 +1,12 @@
+{
+  "name": "i222443_lab8scd",
+  "version": "1.0.0",
+  "main": "testScript.js",
+  "scripts": {
+    "test": "node testScript.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
